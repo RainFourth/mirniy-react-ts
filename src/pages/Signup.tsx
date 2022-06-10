@@ -19,4 +19,5 @@ function Signup(){
         <div><button onClick={signup}>Зарегистрироваться</button></div>
     </div>
 }
+
 export default Signup
